@@ -7,7 +7,7 @@ bonuscheck=[]
 bonusplayer=[]
 
 
-teams={"Gyrhuna":[{"Jaons Dain":0},{"Susu":0}],
+teams={"Gyrhuna":[{"Jaons Diak":0},{"Susu":0}],
        "Achni":[{"Milog":0},{"Tianlong":0}],
        "Bathar":[{"Pakhangba":0},{"Poubi Lai Paphal":0}]}
 
